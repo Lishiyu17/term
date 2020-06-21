@@ -1,0 +1,163 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+body{
+    font-family: Arial;
+    background: #f1f1f1;
+}
+div#header{
+    height: 178px;
+}
+div#header div#h_inner{
+    width: 1313px;
+    height: 178px;
+    background-color: white;
+    text-align: center;
+}
+div#header h1{
+    font-size: 50px;
+}
+
+div#nav{
+    height: 49px;
+}
+div#nav div#n_inner{
+    height: 49px;
+    width: 1313px;
+    background-color: black;
+}
+div#nav a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+div#nav a#a{
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+div#container{
+    height: 1050px;
+}
+div#container div#c_inner{
+    height: 1050px;
+    width: 1313px;
+}
+div#container div#c_inner div#left{
+    float: left;
+    width: 985px;
+    height: 1050px;
+}
+div#container div#l_top{
+    width: 985px;
+    height: 435px;
+    background-color: white;
+}
+div#l_top h2 {
+    margin-left: 20px;
+}
+
+div#l_top h5 {
+    margin-left: 20px;
+}
+div#container div#box1{
+    background-color: #aaa;
+    width: 944px;
+    height: 250px;
+    text-align: center;
+}
+div#l_top p {
+    margin-left: 20px;
+}
+
+div#container div#l_button{
+    width: 985px;
+    height: 580px;
+    background-color: white;
+}
+div#l_button h2{
+    margin-left: 20px;
+}
+div#l_button h5{
+    margin-left: 20px;
+}
+div#l_button div#box2{
+    background-color: #aaa;
+  
+    width: 944px;
+    height: 370px;
+    text-align: center;
+}
+div#container div#middle{
+   width: 20px;
+   height: 1050px;
+   float:left;
+}
+div#container div#c_inner div#right{
+    float: left;
+    width: 308px;
+    height: 1000px;
+}
+div#container div#r_top{
+    width: 308px;
+    height: 410px;
+    background-color: white;
+}
+div#r_top h2{
+    margin-left: 20px;
+}
+div#r_top h5{
+    margin-left: 20px;
+}
+div#r_top div#box3{
+    background-color: #aaa;
+    width: 268px;
+    height: 205px;
+    text-align: center;
+}
+div#r_top div#box3 img#img1{
+    margin-top: 2px;
+}
+div#r_top p{
+    margin-left: 20px;
+}
+div#container div#r_button{
+    width: 308px;
+    height: 575px;
+    background-color:white;
+}
+div#r_button h3{
+    margin-left: 20px;
+}
+div#r_button h5{
+    margin-left: 20px;
+}
+div#r_button div#box4{
+    background-color: #aaa;
+    width: 268px;
+    height: 399px;
+    text-align: center;
+}
+div#r_button div#box4 img#img2{
+    margin-top: 3px;
+}
+div#r_button p{
+    margin-left: 20px;
+}
+div#footer{
+    height: 100px;
+}
+div#footer div#f_inner{
+    height: 100px;
+    width: 1313px;
+    background-color: #ddd;
+    text-align: center;
+}

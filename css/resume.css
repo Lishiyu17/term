@@ -1,0 +1,24 @@
+
+body{
+    background-image: url(../images/预览图_千图网_编号35835076.jpg)
+}
+div#box {
+    height:900px;
+}
+div#box div#inner {
+    width: 800px;
+    height: 1000px;
+    margin: auto;
+}
+tr{
+    height: 50px;
+}
+div#box table#table_1 td#td1 {
+    width: 500px;
+}
+table#table_2 td.td {
+    width:250px ;
+}
+
+
+
